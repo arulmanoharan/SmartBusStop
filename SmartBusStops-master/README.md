@@ -1,5 +1,3 @@
-Team EliXers MH150
-
 Abstract:
 This is a Web Application developed with the help of Django,a python web framework.
 It is meant to be used as software for screens placed in busstops
